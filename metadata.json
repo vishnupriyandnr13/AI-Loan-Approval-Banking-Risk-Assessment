@@ -1,0 +1,6 @@
+{
+  "name": "AI Underwriting & Banking Risk Assessment",
+  "description": "An enterprise-grade loan underwriting decision assistant that performs document analysis, financial profiling, risk and fraud checks, and FOIR (EMI-to-Income) calculation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
